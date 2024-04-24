@@ -1,6 +1,6 @@
 # Dice-roll-game
 dice roll game using html, css and main using by Javascript
-dice roll game using html, css and main using by Javascript Dice Roll Game
+project link: https://dicerollproject1.netlify.app/
 
 technologies used:- HTML, Css, mainly Javascript
 
